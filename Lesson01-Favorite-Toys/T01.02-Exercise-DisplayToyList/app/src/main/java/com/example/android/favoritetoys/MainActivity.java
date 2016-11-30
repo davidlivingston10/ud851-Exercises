@@ -21,7 +21,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    // TODO (1) Declare a TextView variable called mToysListTextView
+    // TODO (1) Declare a TextView variable called mToysListTextView [DJL] Completed 11/29/2016
     TextView mToysListTextView;
 
     @Override
